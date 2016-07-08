@@ -147,13 +147,13 @@ blockquote {
     border-color: #FF4081 !important;
 }
 .primary-text {
-    color: #8a6c4e  !important;
+    color: #53b8ba  !important;
 }
 .primary-color {
-    background-color: #8a6c4e !important;
+    background-color: #53b8ba !important;
 }
 .primary-border {
-    border-color: #8a6c4e  !important;
+    border-color: #53b8ba  !important;
 }
 .grey-blue {
     background-color: #f1f4f5;
@@ -465,7 +465,7 @@ blockquote {
     right: 20px;
 }
 .halo-nav.h-bg {
-    background-color: #8a6c4e ;
+    background-color: #53b8ba ;
 }
 .subtitle {
     position: absolute;
@@ -628,11 +628,11 @@ footer.page-footer {
     color: #fff;
 }
 #toolbar .title {
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 600;
     color: #fff;
     line-height: 56px;
-    margin-left: 16px;
+    margin-left: -15px;
     text-transform: uppercase;
     letter-spacing: normal;
 }
@@ -1327,7 +1327,7 @@ li.your-comment {
     height: 10px;
 }
 .swiper-pagination-bullet-active {
-    background: #8a6c4e ;
+    background: #53b8ba ;
 }
 .swiper-pagination.white-bullet .swiper-pagination-bullet {
     background-color: #fff;
@@ -2441,7 +2441,7 @@ span.data-color {
 
 .offer-text > h3 {
     font-weight: 300;
-	color:#8a6c4e ;
+	color:#53b8ba ;
 	    font-size: 4.5vw;
 }
 /****/
@@ -2486,13 +2486,13 @@ span.data-color {
 
 .offer-box {
     background: none;
-    color: #8a6c4e;
+    color: #53b8ba;
     margin-bottom: 14px;
     padding: 15% 0;
     position: relative;
     text-align: center;
     text-transform: uppercase;
-	border:1px solid #8a6c4e;
+	border:1px solid #53b8ba;
 	
 }
 
@@ -2610,7 +2610,7 @@ ul.posts li {
     border-bottom: 3px #ececec solid;
 }
 .post_date {
-    color: #833545;
+    color: #45a9ab;
 	    width: 20%;
 		    float: left;
     text-align: center;
